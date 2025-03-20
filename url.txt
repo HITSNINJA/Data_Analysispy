@@ -1,1 +1,1 @@
-link dashboard: "Folder terlalu besar"
+link dashboard: "https://dataanalysispy-59nticjbb8xuwc38crheus.streamlit.app/"
